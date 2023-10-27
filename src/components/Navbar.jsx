@@ -105,7 +105,7 @@ const Navbar = () => {
         href={"/login"}
         className={` logout ${
           logout ? "visible " : "invisible "
-        } transition-all rounded-xl z-50 lg:fixed absolute top-[75px] right-[20px] lg:bottom-[130px]  lg:left-[50px] w-[150px] h-[50px] flex gap-4 justify-center  items-center bg-slate-800 hover:bg-slate-300 hover:text-slate-700 text-white font-bold shadow-xl  `}
+        } transition-all rounded-xl z-50 lg:fixed absolute  bottom-[-22px] right-4 lg:bottom-[130px]  lg:left-[50px] w-[150px] h-[50px] flex gap-4 justify-center  items-center bg-slate-800 hover:bg-slate-300 hover:text-slate-700 text-white font-bold shadow-xl  `}
       >
         Logout <LogOut />
       </Link>
