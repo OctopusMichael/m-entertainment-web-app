@@ -1,8 +1,6 @@
 # Frontend Mentor - Entertainment web app solution
 
-This is a solution to the [Entertainment web app challenge on Frontend Mentor](![app](https://github.com/OctopusMichael/m-entertainment-web-app/assets/114978678/8e02fbb8-81e9-4933-a186-b821240abce1)![mobile](https://github.com/OctopusMichael/m-entertainment-web-app/assets/114978678/d1948a0c-4a78-48b1-8d5e-d9950c8425d4)
-![ipad](https://github.com/OctopusMichael/m-entertainment-web-app/assets/114978678/82215b7d-75ae-4d65-bebe-22d7df744d29)
-). Frontend Mentor challenges help you improve your coding skills by building realistic project.
+This is a solution to the [Entertainment web app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/entertainment-web-app-J-UhgAW1X). Frontend Mentor challenges help you improve your coding skills by building realistic project.
 
 ## Overview
 
@@ -18,6 +16,11 @@ Users should be able to:
 - **Bonus**: Build this project as a full-stack application
 - **Bonus**: If you're building a full-stack app, we provide authentication screen (sign-up/login) designs if you'd like to create an auth flow
 
+
+### Screenshots 
+![mobile](https://github.com/OctopusMichael/m-entertainment-web-app/assets/114978678/d1948a0c-4a78-48b1-8d5e-d9950c8425d4)
+![ipad](https://github.com/OctopusMichael/m-entertainment-web-app/assets/114978678/82215b7d-75ae-4d65-bebe-22d7df744d29)
+![app](https://github.com/OctopusMichael/m-entertainment-web-app/assets/114978678/8e02fbb8-81e9-4933-a186-b821240abce1)
 
 
 ### Links
