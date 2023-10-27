@@ -1,10 +1,10 @@
 "use client";
 
+import React, { useState } from "react";
 import { Eye, EyeOff } from "lucide-react";
 import Link from "next/link";
-import React, { useState } from "react";
 
-const login = () => {
+const Login = () => {
   const [sign, setSign] = useState(false);
   const [hidePass, setHidePass] = useState(false);
 
@@ -78,15 +78,8 @@ const login = () => {
                 />
               )}
             </label>
-            /*  <input
-              id=""
-              placeholder="Repeat password"
-              type="password"
-              className=" caret-red  ps-[50px] w-full outline-none bg-blueSlate  text-white inputLogin"
-              autoComplete="off"
-            /> */
+          
           )}
-
           {sign ? (
             <>
               <button className="rounded-xl bg-red w-full text-white h-[50px] hover:bg-white hover:text-black font-bold">
@@ -133,4 +126,4 @@ const login = () => {
   );
 };
 
-export default login;
+export default Login;

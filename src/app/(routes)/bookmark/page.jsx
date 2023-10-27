@@ -3,7 +3,7 @@
 import { Frown } from "lucide-react";
 import useStore from "@/hooks/useStore";
 
-const bookmarkPage = () => {
+const BookmarkPage = () => {
   const searchValue = useStore((state) => state.searchValue);
   return (
     <section>
@@ -22,4 +22,4 @@ const bookmarkPage = () => {
   );
 };
 
-export default bookmarkPage;
+export default BookmarkPage;

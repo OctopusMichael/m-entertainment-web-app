@@ -4,7 +4,7 @@ import data from "@/json/data.json";
 import useStore from "@/hooks/useStore";
 import Card from "@/components/Card";
 
-const movies = () => {
+const Movies = () => {
   let movies = data.filter((e) => e.category == "Movie");
   const searchValue = useStore((state) => state.searchValue);
   const [movieList, setMovieList] = useState(movies);
@@ -44,4 +44,4 @@ const movies = () => {
   );
 };
 
-export default movies;
+export default Movies;
